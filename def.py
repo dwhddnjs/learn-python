@@ -17,3 +17,12 @@ def 함수():
     return 10
 
 함수() 
+
+result = 10
+
+def car():
+    if result > 0 :
+        result = result + 3
+    return result
+    
+car() 
