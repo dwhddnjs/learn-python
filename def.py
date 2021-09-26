@@ -1,5 +1,5 @@
-//함수
-긴코드를 짧은 단어로 축약
+#함수
+# 긴코드를 짧은 단어로 축약
 
 def 인사하기() :
     print('안녕하세요')
@@ -18,18 +18,11 @@ def 함수():
 
 함수() 
 
-result = 10
+
 
 def car():
+    result = 10
     if result > 0 :
         result = result + 3
     return result
-    
-car() 
-
-def car():
-    if result > 0 :
-        result = result + 3
-    return result
-    
 car() 
