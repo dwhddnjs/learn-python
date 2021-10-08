@@ -26,3 +26,8 @@ def car():
         result = result + 3
     return result
 car() 
+
+def new():
+    return 1 + 1
+
+new()
