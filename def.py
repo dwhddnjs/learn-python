@@ -31,3 +31,11 @@ def new():
     return 1 + 1
 
 new()
+
+bob = 10
+
+def foo(): 
+    if bob == 10:
+        print(bob)
+
+foo()
