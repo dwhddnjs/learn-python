@@ -1,4 +1,4 @@
-# Dictionary 
+
 중고차 = {
     'brand':'bmw',
     'model':'520d'
