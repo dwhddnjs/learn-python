@@ -8,6 +8,8 @@ for i in range(0,10):
 for i in 중고차들 :
     print(i)
 
+for i in 중고차들 :
+    print(i + 'name')
 
 
 print()
