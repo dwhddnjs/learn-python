@@ -11,11 +11,11 @@ car = {
 }
 
 
-print(중고차['brand']) #bmw
+print(중고차['brand']) 
 
 중고차['brand'] = 123
 
-print(중고차['brand']) #123
+print(중고차['brand']) 
 
 print(car['model']) 
 
