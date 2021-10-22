@@ -37,3 +37,10 @@ def foo():
         print(bob)
 
 foo()
+
+
+def ban():
+   jjang = '07'
+   print (jjang = jjang)
+
+ban()
