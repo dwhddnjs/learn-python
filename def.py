@@ -44,3 +44,13 @@ def ban():
    print (jjang = jjang)
 
 ban()
+
+
+def func2(a, b):
+    print(f'{a} 곱하기 {b} = {a * b}')
+ 
+func2(1, 2)
+func2(1, 3)
+func2(2, 4)
+
+
