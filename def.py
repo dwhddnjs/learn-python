@@ -54,3 +54,10 @@ func2(1, 3)
 func2(2, 4)
 
 
+def add_mul(x, y):
+    s = x + y
+    m = x * y
+    return s, m
+    
+a, b = add_mul(20, 3)
+print(a, b)
